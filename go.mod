@@ -1,4 +1,4 @@
-module github.com/tfsec/tfsec
+module github.com/hemanthgk10/tfsec
 
 go 1.14
 
