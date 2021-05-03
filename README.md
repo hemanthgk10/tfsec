@@ -4,6 +4,7 @@
 
 # tfsec
 
+reverting it
 
 [![Travis Build Status](https://travis-ci.com/tfsec/tfsec.svg?branch=master)](https://travis-ci.com/tfsec/tfsec)
 [![GoReportCard](https://goreportcard.com/badge/github.com/tfsec/tfsec)](https://goreportcard.com/report/github.com/tfsec/tfsec)
