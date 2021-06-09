@@ -1,4 +1,6 @@
 <p align="center">
+
+[![IaC](https://app.demo.soluble.cloud/api/v1/public/badges/31d2fb10-db00-42db-93fb-7caa80026544.svg)](https://app.demo.soluble.cloud/repos/details/github.com/hemanthgk10/tfsec)  [![HIPAA](https://app.demo.soluble.cloud/api/v1/public/badges/04775713-b68d-4b3d-8a1b-bc7607d3a642.svg)](https://app.demo.soluble.cloud/repos/details/github.com/hemanthgk10/tfsec)  [![CIS](https://app.demo.soluble.cloud/api/v1/public/badges/fe54e60c-e836-4584-999e-d2a10a363be6.svg)](https://app.demo.soluble.cloud/repos/details/github.com/hemanthgk10/tfsec)  
   <img width="463" src="./logo.png">
 </p>
 
