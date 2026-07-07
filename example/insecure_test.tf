@@ -28,3 +28,5 @@ resource "aws_s3_bucket" "cod7216_public_bucket" {
   bucket = "cod7216-public-test-bucket"
   acl    = "public-read"
 }
+
+# COD-7216 rescan trigger
