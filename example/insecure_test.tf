@@ -7,6 +7,7 @@ resource "aws_security_group" "cod7216_open_ssh" {
   name        = "cod7216-open-ssh"
   description = "Test SG that allows SSH from anywhere"
 
+
   ingress {
     description = "SSH from anywhere"
     from_port   = 22
