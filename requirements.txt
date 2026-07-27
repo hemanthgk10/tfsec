@@ -1,0 +1,8 @@
+# Test fixture for COD-7216: intentionally vulnerable Python dependencies used to
+# trigger new FortiCNAPP SCA (Software Composition Analysis) findings on a pull
+# request so the status-check deep-link can be validated on DEV5. Do NOT install.
+PyYAML==5.1
+Django==2.2.0
+requests==2.19.1
+urllib3==1.24.1
+# COD-7216 webhook retest
