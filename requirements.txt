@@ -1,0 +1,5 @@
+# COD-7036 test fixture: intentionally vulnerable Python deps to produce SCA findings. Do NOT install.
+PyYAML==5.1
+Django==2.2.0
+requests==2.19.1
+urllib3==1.24.1
