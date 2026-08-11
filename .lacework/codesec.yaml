@@ -1,0 +1,9 @@
+# COD-7036 test: mixed-case sca.scan.severity. With the fix these coerce to
+# lowercase and the filter applies; without it the profile is rejected/miss-filtered.
+default:
+  sca:
+    enabled: true
+    scan:
+      severity:
+        - Critical
+        - High
